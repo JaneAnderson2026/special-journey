@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://151.243.109.101:443/$1"
+      "destination": "https://annualdomainbrief.sbs:443/$1"
     }
   ]
 }
